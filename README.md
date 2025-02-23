@@ -1,6 +1,6 @@
 # Medicine_recommendation System with Machine Learning
 <br>
-a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately.
+A powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately.
 <br>
 This system allows users to input their symptoms, and with a simple click of a button, it predicts:<br> 🔹 Disease Name
 <br>🔹 Description
